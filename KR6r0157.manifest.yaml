@@ -1,0 +1,75 @@
+canonical_identifier: bkk:krp/KR6r0157/v1
+canonical_location: https://kanripo.org/bkk/KR6r0157/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 林間錄
+  identifiers:
+    alt_id:
+    - X87n1624
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X87/X87n1624.xml
+    old_id: X87n1624
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0157_000.yaml, hash: 'sha256:f763bc6ea02f34e508e04ef7aa0b782cb690eb7852ff1c2ca973d304915fef02'}
+  - {seq: 1, filename: KR6r0157_001.yaml, hash: 'sha256:b8691a107b86bf9552b2687e7d54f8a5d4ed1c32ebcf1d8d74a891f3b4db2d06'}
+  - {seq: 2, filename: KR6r0157_002.yaml, hash: 'sha256:916f8d0811a1c11543ca67078b77fb0c59fcb0a297c470f3fa596061917acbe3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0157_000.markers.yaml, hash: 'sha256:9b47f998685fe25ce62236680ea1a7ea1537234fc3983e655680f485852b2c57'}
+  - {seq: 1, role: markers, filename: assets/KR6r0157_001.markers.yaml, hash: 'sha256:d773d5650db6fe18ba0a69095a4538706f64538a27c656bf189029acbda9b629'}
+  - {seq: 2, role: markers, filename: assets/KR6r0157_002.markers.yaml, hash: 'sha256:e51b05ec1caa629c3396bf10f88539c4f6d350b032f255e9bd0aa06bfde505f1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0157_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1624-A 洪覺範林間錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0157_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 20099
+  label: 石門洪覺範林間錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0157_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 石門洪覺範林間錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0157_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 22045
+  label: 石門洪覺範林間錄卷下
+  type: juan
+  level: 1
+hash: sha256:da34dae804e49821fa2405b45fae0fb31caa7d57ad337c82c680b93290a8c870
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
