@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0157_000.yaml, hash: 'sha256:f3f2523a6f3ce99aa22c902f8c9a60a5e64309622b44ed9c4d5fbcdb4de5f948'}
+  - {seq: 0, filename: KR6r0157_000.yaml, hash: 'sha256:8969259f377c9a1aa5910b3af0c770164e0ff63939b0e1e7bdc9a34fdb66c7f9'}
   - {seq: 1, filename: KR6r0157_001.yaml, hash: 'sha256:699f86fd0d49303c8d97bd04d0a8181513405454804215282cc8204fc4c832b5'}
   - {seq: 2, filename: KR6r0157_002.yaml, hash: 'sha256:7488c8a740eefd8c7e0fce4668f673b0ec07319969fe39174dc168311a7eb9b3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0157_000.markers.yaml, hash: 'sha256:8a37f373aa2e298181b4fa2ca774768c781138feac869dddbb67b9503eeb7336'}
+  - {seq: 0, role: markers, filename: assets/KR6r0157_000.markers.yaml, hash: 'sha256:007e57a3bce37aa9cbc5744ac1082296cdd4ff18d397b8a031fe65e342d7a20c'}
   - {seq: 1, role: markers, filename: assets/KR6r0157_001.markers.yaml, hash: 'sha256:cfe8e73b2ca370886721a20321e8575fe34370c8e7245448868a7925b91933c8'}
   - {seq: 2, role: markers, filename: assets/KR6r0157_002.markers.yaml, hash: 'sha256:7ac96c1380704418267906c74fc0bb4cf2de7feb854347f6ebd3a7a82026569b'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0157_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1624-A 洪覺範林間錄序
@@ -69,7 +69,7 @@ table_of_contents:
   label: 石門洪覺範林間錄卷下
   type: juan
   level: 1
-hash: sha256:6fdaac06ebb6bea199236af362c59c96d5311a31244e8953dabd1ef9410f30e9
+hash: sha256:464a6d9cb599f68fd86ceeaf7c645b937714fa76e38b1c81bca6ce328e6a9c48
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
